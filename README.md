@@ -1,10 +1,12 @@
 # Jason Ganub
 
-VP of Engineering at S-Quantum Engine (SQE)
+Senior Engineering Manager at Commure/Athelas.
 
-I build products and teams that last. 11 years of engineering leadership across SQE, Gojek, Sayurbox, and Intel.
+I build products and teams that last. 11 years of engineering leadership across Commure/Athelas, Sinarmas, Gojek, Sayurbox, and Intel.
 
-**Current focus:** Leading SaaS platforms for identity verification, KYC systems, and messaging infrastructure. Also delivering solutions for projects in the coal mining sector.
+**Current focus:** Managing engineering teams building Air, an EHR platform that helps healthcare providers spend less time on paperwork and more time with patients.
+
+Working across Admin, Provider, Platform, and Data teams to build clinical and practice management systems.
 
 **Notable work:**
 - Led digitalization of financial services at Sinarmas Multifinance with a Dealer and Buyer app for the used car marketplace.
