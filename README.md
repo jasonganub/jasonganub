@@ -1,6 +1,6 @@
 # Jason Ganub
 
-Senior Engineering Manager at Commure/Athelas.
+Senior Engineering Manager at Commure.
 
 I build products and teams that last. 11 years of engineering leadership across Commure/Athelas, Sinarmas, Gojek, Sayurbox, and Intel.
 
